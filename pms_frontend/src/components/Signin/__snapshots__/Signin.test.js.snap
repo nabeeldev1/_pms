@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Signin should match its empty snapshot 1`] = `
+<div
+  className={undefined}
+>
+  <div
+    className={undefined}
+  />
+  <h2
+    className={undefined}
+  >
+    Sign in
+  </h2>
+  <div
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <div
+      className="formErrors"
+    >
+      
+      
+    </div>
+  </div>
+  <form
+    className={undefined}
+    onSubmit={[Function]}
+  >
+    <p>
+      <input
+        id="email"
+        name="email"
+        onChange={[Function]}
+        placeholder="Email"
+        type="email"
+        value=""
+      />
+    </p>
+    <p>
+      <input
+        id="password"
+        name="password"
+        onChange={[Function]}
+        placeholder="Password"
+        type="password"
+        value=""
+      />
+    </p>
+    <p>
+      <input
+        disabled={true}
+        type="submit"
+        value="Sign in"
+      />
+    </p>
+  </form>
+</div>
+`;

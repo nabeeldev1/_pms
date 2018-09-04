@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Footer should match its empty snapshot 1`] = `
+<footer
+  className={undefined}
+>
+  © All Rights Reserved.
+</footer>
+`;

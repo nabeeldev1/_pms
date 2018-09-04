@@ -1,0 +1,16 @@
+.Handle {
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+.Description {
+    font-size: 12px;
+    display: inline;
+}
+
+.Icons i:hover {
+    cursor: pointer;
+}
